@@ -1,17 +1,8 @@
-aiohappyeyeballs==2.4.6
-aiohttp==3.11.12
-aiosignal==1.3.2
-altair==5.5.0
-langchain==0.3.19
-langchain-community==0.3.18
-langchain-core==0.3.37
-langchain-openai==0.3.6
-langchain-text-splitters==0.3.6
-langsmith==0.3.8
-matplotlib @ file:///opt/concourse/worker/volumes/live/f670ab63-e220-495e-450b-14c9591f195b/volume/matplotlib-suite_1634667037960/work
-pandas==1.3.4
-pandoc==2.3
-requests @ file:///tmp/build/80754af9/requests_1629994808627/work
-requests-toolbelt==1.0.0
-SQLAlchemy @ file:///opt/concourse/worker/volumes/live/454d700c-0b8b-469e-7add-023d0df6ee3d/volume/sqlalchemy_1626948440911/work
+sys==3.9.7
+sqlite3==2.6.0
+requests==2.26.0
+os==3.9
+python==3.9
 streamlit==1.23.1
+pandas==1.3.4
+sqlalchemy==1.4.22
